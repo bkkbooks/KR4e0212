@@ -1943,6 +1943,7 @@ markers:
   - {type: line-break, offset: 5710, content: '', id: KR4e0212_WYG_004-23b03}
   - {type: substitution, offset: 5712, original: 烟, replacement: 煙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17207}}
   - {type: punctuation, offset: 5729, content: (, id: KR4e0212_krp_004-bkkpn1}
+  - {type: voice, offset: 5729, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 5731, content: /, id: KR4e0212_krp_004-bkkpn2}
   - {type: punctuation, offset: 5733, content: ), id: KR4e0212_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 5733, content: '
@@ -3423,4 +3424,4 @@ markers:
 
       ', id: KR4e0212_krp_004-bkkkrnewl719}
   back: []
-hash: sha256:83326bf17ae661b9dd4d8227d0dcc06034de38856b3de8a28a7575cf5fa520c8
+hash: sha256:8d46709637ec56a23fb3adb1967968d2b3d94064e5f0d12c549a8acb912f0a26
